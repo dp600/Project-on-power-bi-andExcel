@@ -39,11 +39,21 @@ Based on certain questions analysis sales data in Excel and Summerize in Power B
 
 2. Some Images from Power BI
 
+
    
 I.Dash borad
 
 
+
+
+
+
+
+
 <img width="762" height="476" alt="image" src="https://github.com/user-attachments/assets/d2df132e-5b1c-4c99-8f63-1652f6cfb1e4" />
+
+
+
 
 
 
