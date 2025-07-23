@@ -34,10 +34,18 @@ Based on certain questions analysis sales data in Excel and Summerize in Power B
 <img width="1089" height="419" alt="image" src="https://github.com/user-attachments/assets/25b109ec-640e-47bb-9019-2b22682540d1" />
 
 
+
+
+
 2. Some Images from Power BI
+
    
 I.Dash borad
+
+
 <img width="762" height="476" alt="image" src="https://github.com/user-attachments/assets/d2df132e-5b1c-4c99-8f63-1652f6cfb1e4" />
+
+
 
 
 
@@ -45,6 +53,8 @@ II.Running Total
 
 
 <img width="273" height="473" alt="image" src="https://github.com/user-attachments/assets/bae0e5d3-d407-493f-98b6-c8d47d44bff5" />
+
+
 
 
 
